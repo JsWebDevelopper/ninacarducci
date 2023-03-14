@@ -1,0 +1,8 @@
+
+Étape 1 : Prenez en main le code source
+    ● Récupéré le code source du projet.
+    ● Pris connaissance de l’éno
+
+    ● réalisez votre propre audit (https://jswebdevelopper.github.io/ninacarducci/) pour avoir accès à tout le détail des
+recommandations de l’outil (lighhouse + GTMetrix )   
+
